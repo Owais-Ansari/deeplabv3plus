@@ -6,7 +6,7 @@
 tensorflow>=2.5.2
 efficientnet==1.1.1
 ```
-models can be build with Keras or Tensorflow frameworks use keras and tfkeras modules respectively efficientnet.keras / efficientnet.tfkeras at line number 205 in deeplab.py
+Efficientnet models can be build with Keras or Tensorflow frameworks use keras and tfkeras modules respectively efficientnet.keras / efficientnet.tfkeras at line number 205 in deeplab.py
 
 ## Usage
 ```
